@@ -1,0 +1,59 @@
+[
+    {
+    "service_name":"Cage Installation",
+    "service_id":"01",
+    "image_url":"https://www.survivalpoultryfarm.ng/wp-content/uploads/2020/08/DSC_9913-1536x1097.jpg",
+    "rating":"4.1",
+    "price":"1500",
+    "description":"We offer locally made enclosures that are of the highest caliber and have a 7–10 year lifespan. We have two types of cages: the Standard Cage, which can hold 96 or 128 birds, and the Premium Cage, which can hold 96 or 128 birds as well."
+    },
+    
+    {
+    "service_name":"Farm Plan & Design",
+    "service_id":"02",
+    "image_url":"https://www.survivalpoultryfarm.ng/wp-content/uploads/2020/08/screencapture-file-C-Users-PHEMYXCORP-Downloads-LCPH7-pdf-2020-08-06-13_44_19.png",
+    "rating":"4.2",
+    "price":"1000",
+    "description":"We include the site planning and and designing of the structures to be on the landscape.The chicken house's layout. To guarantee maximum productivity from the poultry farm, certain considerations should be made when designing the open-sided poultry house. Direction and orientation of a poultry home. To keep the poultry from receiving full sunlight, the house's length should run east-west. Size of a chicken coop overall."
+    },
+    
+    {
+    "service_name":"Farm Construction",
+    "service_id":"03",
+    "image_url":"https://www.survivalpoultryfarm.ng/wp-content/uploads/2020/08/IMG_20171005_114101.jpg",
+    "rating":"4.3",
+    "price":"10000",
+    "description":"We build your desired and dream poultry house and make it a reality. Our Services are very fast and reliable.Planning and construction plan for the floor of the poultry farm's poultry shed: Concrete should be used to construct the farm floor so that it is rat-proof. It should be dry and clear of moisture. To keep snakes and rats away from the livestock and birds, the floor should extend 1.5 feet beyond the walls on all sides."
+    },
+    
+    {
+    "service_name":"Placement of Deep Litter",
+    "service_id":"04",
+    "image_url":"https://www.survivalpoultryfarm.ng/wp-content/uploads/2020/08/OBS_6502.jpg",
+    "rating":"4.4",
+    "price":"5000",
+    "description":"A poultry housing method known as deep litter relies on the regular application of sawdust or straw to the floor. The farmer spreads out a base layer of litter for the birds to urinate and use as bedding, and as the base layer becomes soiled, new levels of litter are continually added. At Survival Poultry Farm Services, we assist farms with the installation of various deep litter system capacities. We also provide chick drinkers, feeders, and water lines."
+    },
+    
+    
+    {
+    "service_name":"Delivery Services",
+    "service_id":"05",
+    "image_url":"https://www.survivalpoultryfarm.ng/wp-content/uploads/2020/08/IMG_20180118_172127.jpg.jpg",
+    "rating":"4.5",
+    "price":"3000",
+    "description":"Our clients today need safety and want flexibility. We thus provide both. The scheduling of movements for poultry and pullets is handled effectively. To make sure we can move the birds when it's convenient for you, we're very accommodating. We place a high priority on mastering logistics management's complexities because we understand that transportation is essential for getting your product from the field to the market."
+    },
+    
+    {
+    "service_name":"Guidance Service",
+    "service_id":"06",
+    "image_url":"https://www.deuka.de/site/assets/files/59139/beratungsgespraech_in_wintergarten_zwischen_berater_und_landwirt.900x0.jpg",
+    "rating":"4.6",
+    "price":"2000",
+    "description":"This includes guidance on farm design and planning, training of field and management staff, management of bird health and vaccinations, production of bird feeds, sensitization on economic methods for operating the poultry business to maximize profit, and other issues that are relevant to poultry farming as a whole."
+    }
+    
+    
+    
+    ]
