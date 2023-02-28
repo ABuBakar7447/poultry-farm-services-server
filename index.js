@@ -137,6 +137,15 @@ async function run(){
     })
 
 
+    //adding service in database
+    app.post('/services', async(req, res)=>{
+      const review = req.body;
+      const result = await servicesCollection.insertOne(review);
+      res.send(result);
+    });
+
+
+
      
   }
   finally{
